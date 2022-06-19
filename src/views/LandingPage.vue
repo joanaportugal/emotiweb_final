@@ -9,7 +9,7 @@
         <picture>
           <source type="image/webp" srcset="../assets/compressed/logo2.webp" />
           <source type="image/png" srcset="../assets/logo2.png" />
-          <img src="../assets/logo2.png" width="720px" alt="" />
+          <img src="../assets/logo2.png" width="400px" alt="" />
         </picture>
 
         <div class="mt-3 text-center">
